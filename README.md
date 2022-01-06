@@ -1,5 +1,5 @@
 # Mundo-de-wumpus
-Se crea una solución del mundo de wumpus prohgramada en prolog
+Se crea una solución del mundo de wumpus programada en prolog
 
 
 Introducción
